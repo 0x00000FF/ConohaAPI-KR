@@ -1,5 +1,9 @@
 # 한국어 ConoHa API 문서
 
+<p align="center">
+    <img src="img/conoha-chan.png" height="200px" />
+</p>
+
 ```
 * 본 레포지토리 및 문서는 ConoHa API(https://www.conoha.jp/docs/)의 비공식 한국어 번역 문서입니다. 
   ConoHa 및 GMO Internet과 어떠한 공식적 연관관계도 없음을 밝힙니다.
