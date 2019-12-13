@@ -8,7 +8,16 @@
   내용에 문제가 있는 경우 이슈트래커를 통해 제보하여 주시기 바랍니다.
 ```
 
-코노하 API를 위한 .NET 래퍼 라이브러리는 [여기](https://github.com/0x00000FF/ConohaAPI.NET)를 참고하여 주시기 바랍니다.
+## Getting Started
+
+직접 사용하려는 경우, curl, axios 등 RESTful API에 접근하기 위한 도구나 라이브러리가 필요합니다.
+프로그램에 사용하기 위한 래핑 라이브러리를 찾는 경우 다음 레포지토리들을 알아보세요.
+
+### PHP
+ * [ezaki/chap](https://github.com/ezaki/chap)
+
+### .NET
+ * [0x00000FF/ConohaAPI.NET](https://github.com/0x00000FF/ConohaAPI.NET) -> 준비중!
 
 ## Identity API v2.0
 
